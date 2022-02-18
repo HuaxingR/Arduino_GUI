@@ -1,0 +1,5 @@
+﻿  GUI.cpp
+  MainWindow.cpp
+C:\Users\Huaxing Ren\Documents\SummerResearch21\wx_arduino\wx_arduino\MainWindow.cpp(145,29): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  wx_arduino.vcxproj -> C:\Users\Huaxing Ren\Documents\SummerResearch21\wx_arduino\Debug\wx_arduino.exe

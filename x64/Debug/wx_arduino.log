@@ -1,0 +1,9 @@
+﻿  ArduinoController.cpp
+C:\Users\Huaxing Ren\Documents\SummerResearch21\wx_arduino\wx_arduino\ArduinoController.cpp(22,8): warning C4101: 'reading': unreferenced local variable
+  GUI.cpp
+  MainWindow.cpp
+C:\Users\Huaxing Ren\Documents\SummerResearch21\wx_arduino\wx_arduino\MainWindow.cpp(145,29): warning C4553: '==': result of expression not used; did you intend '='?
+  SerialPort.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Huaxing Ren\Documents\SummerResearch21\wx_arduino\x64\Debug\wx_arduino.exe : fatal error LNK1120: 1 unresolved externals
